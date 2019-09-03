@@ -395,7 +395,8 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url('../img/bckg.jpeg');
+    background-image: url('../img/particle-js_bg.png');/*
+    background-color: white;*/
     padding: 250px 0;
 }
 
@@ -406,8 +407,9 @@ section.cta .cta-content {
 
 section.cta .cta-content h2 {
     margin-top: 0;
-    margin-bottom: 25px;
-    color: white;
+    margin-bottom: 25px;/*
+    color: white;*/
+    color: #00007f;
     max-width: 450px;
     font-size: 50px;
 }
@@ -420,8 +422,10 @@ section.cta .cta-content h2 {
 
 section.cta .overlay {
     height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;/*
+    background-color: rgba(0, 0, 0, 0.5); // grey
+    background-color: rgba(0, 0, 0, 0); // white*/
+    background-color: transparent;
     position: absolute;
     top: 0;
     left: 0;
@@ -436,8 +440,9 @@ section.contact h2 {
     margin-bottom: 25px;
 }
 
-section.contact h2 i {
-    color: #dd4b39;
+section.contact h2 i {/*
+    color: #dd4b39;*/
+    background-image: url('../img/particle-js_bg.png');
 }
 
 section.contact ul.list-social {
@@ -478,8 +483,9 @@ section.contact ul.list-social li.social-slack a:hover {
     background-color: #d73925;
 }
 
-footer {
-    background-color: #222222;
+footer {/*
+    background-color: #222222;*/
+    background-image: url('../img/particle-js_bg.png');
     padding: 25px 0;
     color: rgba(255, 255, 255, 0.3);
     text-align: center;
@@ -506,10 +512,11 @@ footer ul li a.active {
     text-decoration: none;
 }
 
-.bg-primary {
-    background: #000000;
+.bg-primary {/*
+    background: #000000;*/
     /*background: -webkit-linear-gradient(#fdcc52, #fdc539);
     background: linear-gradient(#fdcc52, #fdc539);*/
+    background-image: url('../img/particle-js_bg.png');
 }
 
 .text-primary {
