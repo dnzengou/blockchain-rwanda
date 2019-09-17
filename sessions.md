@@ -62,14 +62,3 @@ Proposed by: Nuru H.
 <h4> llSourcell/Learn_Blockchain_in_2_months
 [GitHub](https://github.com/llSourcell/Learn_Blockchain_in_2_months/blob/master/README.md)
 
-### Linear Algebra
-[An interesting playlist by 3Blue1Brown - Linear algebra tutorial](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Linear algebra will be required for future sessions)
-
-### My favorite applications :)
-[Text Analytics with R | Sentiment Analysis with R | Part 1 | Basics (video)](https://youtu.be/y21yWgMWMc8)
-[Sentiment analysis with tidy data (tutorial)](https://www.tidytextmining.com/sentiment.html)
-[Tutorial: Sentiment Analysis in R | Kaggle](https://www.kaggle.com › rtatman › tutorial-sentiment-analysis-in-r)
-[Python for NLP: Sentiment Analysis with Scikit-Learn](https://stackabuse.com › python-for-nlp-sentiment-analysis-with-scikit-learn))
-[Python NLTK sentiment analysis | Kaggle](https://www.kaggle.com › ngyptr › python-nltk-sentiment-analysis)
-[Tweet Visualization and Sentiment Analysis in Python - Full Tutorial](https://youtu.be/1gQ6uG5Ujiw)
-
