@@ -16,10 +16,31 @@ Sessions folder consists of videos, links, readings etc that are discussed in th
 - [Twitter](https://twitter.com/blockchainrw)
 
 
-# Week 0
+# Session 0
 Blochchain Rwanda Meetup has started! 11/09/2019 Was a blast! Next date: (yet to be defined)
 
+## Session 1
+### Possible topics to be covered in the next weeks:
+
+Blockchain in the context of...
+
+1. *Libra's development in Africa, or “the need to engage in a reflection on a public digital currency issued by central banks that would guarantee the total security of transactions, their speed, simplicity and free [nature].”*
+Proposed by: Michael N.
+
+2. Cargo traceability / supply chain traceability
+Proposed by: Norbert
+
+3. *Pharmaceutical*
+E-prescription that can mitigate moral hazards and frauds so medical insurance and medical services can be accessible to all
+
+4. *Livestock integration into the financial services ecosystem for financial inclusion*
+Proposed by: Nuru H.
+
+
 ## Media
+### Eventbrite agenda
+1. [Session 0](https://www.eventbrite.com/e/blockchain-rwanda-meetup-tickets-71805254449) <ended!>
+2. [Session 1](https://www.eventbrite.com/e/#) <To be scheduled!>
 
 <hr>
 
