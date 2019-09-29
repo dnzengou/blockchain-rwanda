@@ -176,7 +176,17 @@ header {
     overflow-y: hidden;
     /*background: url("../img/bg-pattern.png"), #7b4397;*/
     /* fallback for old browsers */
-    background: url("../img/bckg.jpeg");
+  /* The image used */
+  background-image: url("../img/bckg.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
     /*#7b4397*/
     /*background: url("../img/bckg.jpeg"), -webkit-linear-gradient(to left, #7b4397, #dc2430);*/
     /* Chrome 10-25, Safari 5.1-6 */
